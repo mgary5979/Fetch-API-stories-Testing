@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "The Woman Who Cry's",
+    "description": "It all started on on night, one dark and gloomy night, it was so silent, then all of a sudden we felt a chill and we heard something so frightful.",
+    "creator": {
+      "name": "Bob Reace",
+      "contactEmail": "bob@gmail.com"
+    }
+  },
+  {
+    "id": "2",
+    "title": "The Red Stage",
+    "description": "This story is so horrific that you would not like to know about what happenson that stage and why they call it the red stage.",
+    "creator": {
+      "name": "Vanessa Roberts",
+      "contactEmail": "vanny12@gmail.com"
+    }
+  },
+  {
+    "id": "3",
+    "title": "The Toy That Moved By Itself",
+    "description": "You might of seen this title and asumed this was a cute kid friendly story like toy story but no! this is much much much more real and.",
+    "creator": {
+      "name": "Tim Gibbons",
+      "contactEmail": "timgib@gmail.com"
+    }
+  },
+  {
+    "id": "4",
+    "title": "The Green Dog Food",
+    "description": "I was on my way home when I was approched by a man, he seemed friendly and he had given me dog food. He said they call it gfood.",
+    "creator": {
+      "name": "Alpha One",
+      "contactEmail": "alpha1@gmail.com"
+    }
+  },
+  {
+    "id": "5",
+    "title": "The Noises In The Attic",
+    "description": "Now I have been living in this house for two years now, I never expected to find out what or who was living in my attic.",
+    "creator": {
+      "name": "Sarah Pix",
+      "contactEmail": "sarahp@gmail.com"
+    }
+  },
+  {
+    "id": "6",
+    "title": "The Perfect School",
+    "description": "My friend john was a naughty child in school, he had refused to do the work, was always fighting and had letters home. However rumour has it that he was sent to a private school and how his parents could afford that school was beyond me as none of tthem had a job.",
+    "creator": {
+      "name": "Robert Sop",
+      "contactEmail": "robo32@gmail.com"
+    }
+  },
+  {
+    "id": "5b8e",
+    "title": "the haunted place",
+    "description": "This place is so haunted that even spiders get the chills.",
+    "creator": {
+      "name": "bob",
+      "contactEmail": "bob123@gmail.com"
+    }
+  },
+  {
+    "id": "50d7",
+    "title": "How To Be Happy",
+    "description": "this story is one hell of a story you really dont want to miss out!",
+    "creator": {
+      "name": "bobby james",
+      "contactEmail": "bobby123@gmail.com"
+    }
+  }
+]
